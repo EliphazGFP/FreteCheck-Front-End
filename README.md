@@ -1,4 +1,5 @@
 # 💡 Sistema de Fretes
+  Sistema onde o cliente posta a necessidade de frete, contendo dia, tamanho da carga, local de partida e destino. E os freteiros podem realizar propostas, o cliente entrará em contato via whatsapp com o qual ele desejar. Após a realização do frete, ambos poderão avaliar um ao outro. O sistema busca melhorar a eficiência e reduzir os custos operacionais para os caminhoneiros autônomos, contribuindo para uma maior transparência e segurança nas transações de frete.
 
 ...
 
